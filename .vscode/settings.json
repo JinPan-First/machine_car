@@ -1,0 +1,14 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "guides.enabled": false,
+    "workbench.colorTheme": "Default Light Modern",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "python.pythonPath": "C:\\Software\\Anaconda3\\envs\\yolov8\\python.exe",
+    "python.analysis.extraPaths": [
+        "C:\\Software\\Anaconda3\\envs\\yolov8\\Lib\\site-packages"
+    ],
+    "python.defaultInterpreterPath": "C:\\Software\\Anaconda3\\envs\\yolov8\\python.exe",
+}
